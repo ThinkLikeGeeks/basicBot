@@ -167,7 +167,7 @@
     var basicBot = {
         version: "2.1.3",
         status: false,
-        name: "basicBot",
+        name: "ChatBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -212,11 +212,11 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: null,
+            rulesLink: "http://www.thinklikegeeks.com/plug.dj.rules.html"
             themeLink: null,
-            fbLink: null,
-            youtubeLink: null,
-            website: null,
+            fbLink: "http://facebook.thinklikegeeks.com"
+            youtubeLink: "http://youtube.thinklikegeeks.com"
+            website: "http://www.thinklikegeeks.com"
             intervalMessages: [],
             messageInterval: 5,
             songstats: true,
